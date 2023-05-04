@@ -47,7 +47,7 @@ export default NavDictionary({
 	// Reference
 	reference: 'Referenz',
 	'reference/configuration-reference': 'Konfiguration',
-	'reference/cli-reference': 'Befehlszeilen&shy;schnittstelle (CLI)',
+	'reference/cli-reference': 'Kommandozeilen&shy;schnittstelle (CLI)',
 	'reference/api-reference': 'Laufzeit-API',
 	'reference/integrations-reference': 'Integrations-API',
 	'reference/adapter-reference': 'Adapter-API',
